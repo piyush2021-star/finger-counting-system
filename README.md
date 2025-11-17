@@ -1,4 +1,3 @@
-# finger-counting-system
 📌 Project: Real-Time Finger Counting System using OpenCV & MediaPipe
 🖥️ Finger Counting System (OpenCV + MediaPipe)
 
